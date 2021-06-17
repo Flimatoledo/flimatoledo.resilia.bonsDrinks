@@ -8,12 +8,14 @@ export const Forms = styled.form`
   display: grid;
   grid-template-rows: 1fr 1fr 2fr 0.5fr;
   height: 60vh;
+  border-radius: 4px;
 
   .msg {
     height: 7rem;
     padding: 0.5rem 0.5rem;
     resize: none;
     border: 1px solid #d7d7d7;
+    border-radius: 3px;
   }
 
   div {
@@ -29,6 +31,7 @@ export const Forms = styled.form`
       width: 250px;
       height: 1.5rem;
       border: 1px solid #d7d7d7;
+      border-radius: 3px;
     }
   }
 
