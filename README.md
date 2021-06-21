@@ -1,3 +1,18 @@
+# Paginas
+
+-Inicio
+-Contato
+-Nosso Time
+-Sobre Nós
+-Drinks
+
+# Tecnologias
+
+- [React.js](https://reactjs.org/)
+- [Styled-Components](https://styled-components.com/)
+- [React-Router-Dom](https://reactrouter.com/web/guides/quick-start)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
