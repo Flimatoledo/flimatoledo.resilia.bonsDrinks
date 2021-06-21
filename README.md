@@ -1,10 +1,10 @@
 # Paginas
 
--Inicio
--Contato
--Nosso Time
--Sobre Nós
--Drinks
+-[Inicio]
+-[Contato]
+-[Nosso-Time]
+-[Sobre-Nós]
+-[Drinks]
 
 # Tecnologias
 
