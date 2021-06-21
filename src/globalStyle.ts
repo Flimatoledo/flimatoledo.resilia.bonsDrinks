@@ -2,6 +2,11 @@ import { createGlobalStyle } from "styled-components";
 
 export const GlobalStyle = createGlobalStyle`
 
+.img-card-drinks{
+  width: 10rem;
+  height: 10rem;
+}
+
 *{
   margin: 0;
   padding: 0;
